@@ -5,7 +5,7 @@
 
 A Filament v4 plugin that adds fullscreen functionality to the Rich Editor component. This plugin allows users to expand the rich editor to fullscreen mode for a better writing experience.
 
-<img class=".filament-hidden" alt="Rich Editor Fullscreen plugin cover" src="img/cover.jpg">
+<img class="filament-hidden" alt="Rich Editor Fullscreen plugin cover" src="img/cover.jpg">
 
 ## Installation
 
